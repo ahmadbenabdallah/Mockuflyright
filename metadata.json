@@ -1,0 +1,6 @@
+{
+  "name": "Mockupify",
+  "description": "Turn any website URL into a polished browser mockup and export high-resolution PNGs or bulk ZIPs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
