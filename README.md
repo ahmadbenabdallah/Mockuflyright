@@ -73,7 +73,6 @@ npm run start
 ## ⚙️ Environment Variables
 
 Copy `.env.example` to `.env`:
-
 ```env
 RENDER_TIMEOUT=30000
 MAX_BULK_URLS=100
