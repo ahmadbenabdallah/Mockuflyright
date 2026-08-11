@@ -1,5 +1,5 @@
 /**
- * Server-Side Website Screenshot Rendering Engine
+ * Server-Side Website Screenshot Rendering Engine v1
  * Uses Playwright with smart fallback capture capability
  */
 import { chromium } from "patchright";
